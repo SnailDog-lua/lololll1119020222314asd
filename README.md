@@ -1,4 +1,3 @@
-## The Best Rust Stealer Project
 
 ### Progress!
 
